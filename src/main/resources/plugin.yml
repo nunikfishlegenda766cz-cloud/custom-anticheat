@@ -1,0 +1,8 @@
+name: CustomAntiCheat
+version: 1.0
+main: cz.tvojeserver.customanticheat.CustomAntiCheat
+api-version: '1.20'
+commands:
+  ac:
+    description: Sprava CustomAntiCheat
+    usage: /ac reset <hrac>
